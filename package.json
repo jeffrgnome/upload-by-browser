@@ -1,0 +1,17 @@
+{
+	"name": "upload-by-browser",
+	"description": "Node.js quick n' dirty file repository.",
+	"author": "Jeff R <jeff.r.gnome@gmail.com>",
+	"version": "0.0.1",
+	"dependencies": {
+		"url": "0.x.x",
+		"path": "0.x.x",
+		"mime": "1.x.x",
+		"dateformat": "1.x.x",
+		"formidable": "1.x.x",
+		"util": "0.x.x"
+		},
+	"devDependencies": {
+	},
+	"engine": "node >= 0.x.x"
+}
