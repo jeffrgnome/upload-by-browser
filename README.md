@@ -9,3 +9,9 @@ Your client is your browser.
 
 IN OTHER WORDS, DON"T LEAVE THIS CRAP RUNNING IN PRODUCTION! :)
 It's a quick, 10 minute use kind of tool for developers. Start it up, use it, shut it down!
+
+Usage
+-----------------
+node upload-by-browser.js 80
+
+(or another non-80 port, if desired)
